@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @websitedesignerMani
+- 👋 Hi, I’m Mani websitedesigner  
 - 👀 I’m interested in web designes
 - 🌱 I’m currently learning node js 
 - 💞️ I’m looking to collaborate on front end developers
